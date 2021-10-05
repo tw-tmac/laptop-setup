@@ -1,0 +1,4 @@
+cask "plex-media-server"
+cask "steam"
+cask "epic-games"
+cask "ferdi"

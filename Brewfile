@@ -1,12 +1,8 @@
 tap "homebrew/cask"
-cask "ferdi"
 cask "vscodium"
 cask "intellij-idea-ce"
-cask "steam"
-cask "epic-games"
 cask "iterm2"
 cask "zoom"
-cask "plex-media-server"
 
 brew "bat"
 brew "fzf"
