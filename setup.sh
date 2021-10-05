@@ -9,7 +9,7 @@ wait 1
 cp .zshrc ~/.zshrc
 source ~/.zshrc
 echo "Installing janus"
-curl -L https://bit.ly/janus-bootstrap | 
+curl -L https://bit.ly/janus-bootstrap | bash
 echo "Installing essential packages..."
 brew bundle
 echo "Set up complete. If you want to install extra stuff, run brew bundle --file Brewfile_extra"
